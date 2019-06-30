@@ -1,0 +1,13 @@
+{
+  "title": "An AWS DataKit",
+  "chapters": [
+    {
+      "title":  "AWS and Terraform: Setting up your first AWS Remote File",
+      "chapter": 1
+    },
+    {
+      "title":  "Python and Boto3: A simple JSON cloud application",
+      "chapter": 2
+    }
+  ]
+}
